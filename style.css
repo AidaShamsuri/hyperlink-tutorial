@@ -1,0 +1,29 @@
+body
+	{
+		background-color: #EADA9A ;
+	}
+
+a:link, a:visited
+	{
+		background-color: #AA744B;
+		color:#B8B8B7;
+		text-decoration: none;
+		text-align: center;
+		display: inline-block;
+		font-family: ;
+	}
+
+
+a:hover
+	{
+		color:red;
+		background-color: yellow;
+		text-decoration: underline;
+	}
+
+a:active
+	{
+		color: green;
+		background-color: yellow;
+		text-decoration: underline;
+	}
